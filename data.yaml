@@ -1,0 +1,6 @@
+path: /users/PGS0365/dbethapu/YOLO FINAL/yolo_tumor_dataset
+train: images/train
+val: images/train
+
+names:
+  0: tumor
